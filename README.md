@@ -2,6 +2,11 @@
 
 This project is a simple 3D game created in Unity. The player guides a cube through an obstacle course, avoiding collisions to reach the end of the level. It includes basic features such as player movement, collision detection, score tracking, level progression, and a simple UI menu.
 
+## Play It Online
+
+You can play the WebGL build of the game right here:
+🕹️ [**Play The Game!**](https://imnotdanish05.github.io/UnityLearnProject-Brackeys/TheGame/)
+
 ## Disclaimer / Notice
 
 **Important:** This program is not intended for actual use or distribution. 
